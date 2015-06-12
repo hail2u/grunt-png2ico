@@ -10,8 +10,7 @@
   "keywords": [
     "favicon",
     "gruntplugin",
-    "icon",
-    "imagemagick"
+    "icon"
   ],
   "license": "MIT",
   "private": true,
