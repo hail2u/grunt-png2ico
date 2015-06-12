@@ -1,5 +1,5 @@
 {
-  "name": "grunt-png2ico",
+  "name": "@hail2u/grunt-png2ico",
   "description": "Generate ICO file from multiple PNG files with ImageMagick.",
   "version": "0.1.0",
   "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
@@ -13,7 +13,6 @@
     "icon"
   ],
   "license": "MIT",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/hail2u/grunt-png2ico.git"
