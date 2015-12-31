@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hail2u/grunt-png2ico.git"
+  },
+  "dependencies": {
+    "which": "1.2.1"
   }
 }
