@@ -16,6 +16,7 @@
     "icon"
   ],
   "license": "MIT",
+  "main": "tasks/png2ico.js",
   "peerDependencies": {
     "grunt": ">=0.4.0"
   },
